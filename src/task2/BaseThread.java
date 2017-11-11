@@ -1,4 +1,5 @@
 package task2;
+
 class BaseThread extends Thread
 {
         /*
@@ -16,3 +17,5 @@ class BaseThread extends Thread
              this.iTID = piTID;
        }
 }
+
+// Source code for the user defined exception classes:
